@@ -1,4 +1,4 @@
-# :zap: Python 101: Beginners Guide to Python programming 📖
+# :zap: Python 101: Beginners Guide to Python Programming📖
 
 <img src="Images/python.jpg" alt="BannerImage">
 <p align="center">
