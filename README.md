@@ -377,8 +377,10 @@ ___
 
 ### <a name="Youtube">Youtube Channels</a>
 
+- [Python By Corey Scahfer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 - [Python By Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 - [Python By Telusko](https://youtu.be/QXeEoD0pB3E)
+- [Classes and Objects (OOP)](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 
 ---
 
